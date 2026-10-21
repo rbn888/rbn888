@@ -27,6 +27,22 @@ My work covers product strategy, user experience, financial data integrations, t
 - **Digital Asset Security:** Wallet management, self-custody, and risk assessment.
 - **Product Development:** Product architecture, API integrations, UI/UX, testing, and AI-assisted workflows.
 
+## Other Projects & Services
+
+**Founder Platform — Product & Business Operations**
+
+A platform designed to manage multiple digital products, monitor business performance, and coordinate AI-assisted operational workflows.
+
+**Booking Platform — Reservation Management**
+
+A web application project focused on reservation management, business operations, and process automation.
+
+**Digital Product Audit & QA**
+
+An independent service for reviewing digital products, identifying functional issues, evaluating user experience, and improving software quality.
+
+These projects reflect my practical experience in product design, technical coordination, testing, and AI-assisted development.
+
 ## Professional Interests
 
 Open to opportunities in **Web3, blockchain, DeFi, fintech, on-chain analytics, and digital product development.**
